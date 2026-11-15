@@ -1,7 +1,7 @@
 --[[
     NexusHUB v1.0.4
     Build: ollie for olivia
-    UI: Sidebar exacto (Synergy style), Sub-secciones, Midnight Theme.
+    UI: Sidebar exacto (Jair style), Sub-secciones, Midnight Theme.
     Features: ESP, Aimbot, Silent Aim, Hitbox Segura, Auto Farm, Avatares (Headless/Korblox).
 ]]
 
